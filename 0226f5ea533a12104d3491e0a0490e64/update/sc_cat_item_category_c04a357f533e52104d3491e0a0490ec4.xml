@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Media Review">1bf6f57b533e52104d3491e0a0490ed8</sc_cat_item>
+        <sc_category display_value="RaaS">8eb2b137533e52104d3491e0a0490e67</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 18:02:50</sys_created_on>
+        <sys_id>c04a357f533e52104d3491e0a0490ec4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RaaS.Media Review</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_update_name>sc_cat_item_category_c04a357f533e52104d3491e0a0490ec4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 18:02:50</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
