@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Rass - Review as a Service">d62c723e533292104d3491e0a0490e73</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Awaiting Moderator's Approval Reviews</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Actors</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1329491_raas_review</name>
+        <order>600</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1329491_raas.administrator,x_1329491_raas.moderator</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 20:11:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ffa72ba533292104d3491e0a0490e2b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Awaiting Moderator's Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Raas" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Raas">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_update_name>sys_app_module_4ffa72ba533292104d3491e0a0490e2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 20:18:51</sys_updated_on>
+        <timeline_page/>
+        <title>Awaiting Moderator's Approval</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</application>
+        <file_path/>
+        <instance_id>c2f13af1db014a5437d72a59139619f8</instance_id>
+        <instance_name>dev247250</instance_name>
+        <name>sys_app_module_4ffa72ba533292104d3491e0a0490e2b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Rass - Review as a Service">d62c723e533292104d3491e0a0490e73</application><assessment/><device_type/><filter/><hint>Awaiting Moderator's Approval Reviews</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Actors</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1329491_raas_review</name><order>600</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1329491_raas.administrator,x_1329491_raas.moderator</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-03 20:11:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ffa72ba533292104d3491e0a0490e2b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Awaiting Moderator's Approval</sys_name><sys_overrides/><sys_package display_value="Raas" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package><sys_policy/><sys_scope display_value="Raas">0226f5ea533a12104d3491e0a0490e64</sys_scope><sys_update_name>sys_app_module_4ffa72ba533292104d3491e0a0490e2b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-03 20:18:51</sys_updated_on><timeline_page/><title>Awaiting Moderator's Approval</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1255349939</payload_hash>
+        <record_name>Awaiting Moderator's Approval</record_name>
+        <reverted_from/>
+        <source>1226f5ea533a12104d3491e0a0490e69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 20:18:51</sys_created_on>
+        <sys_id>9f9cba3e533292104d3491e0a0490ef9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1942dd21a810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 20:18:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>579cba3e7a32921097beb00ce5cfd2f9</update_guid>
+        <update_guid_history>579cba3e7a32921097beb00ce5cfd2f9:-1255349939,0ffa72ba3c32921033de603a4229042d:1103285506,0ffa72ba3c32921033de603a4229042d:1103285506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Awaiting Moderator's Approval">6b0d367e533292104d3491e0a0490e5a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 20:20:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>123b773828da4d21a4422fafbaf94629</sys_id>
+        <sys_metadata>4ffa72ba533292104d3491e0a0490e2b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting Moderator's Approval</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_scope_delete display_value="">91b5adaec4b34e2c9e88bf5b7bcd6490</sys_scope_delete>
+        <sys_update_name>sys_app_module_4ffa72ba533292104d3491e0a0490e2b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4ffa72ba533292104d3491e0a0490e2b">9f9cba3e533292104d3491e0a0490ef9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 20:20:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

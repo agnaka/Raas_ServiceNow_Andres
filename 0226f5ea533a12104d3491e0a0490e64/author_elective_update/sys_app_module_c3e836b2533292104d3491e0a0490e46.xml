@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Raas -Review as a Service">49a5f236533292104d3491e0a0490e9d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>List of Directors</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Actors</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1329491_raas_director</name>
+        <order>500</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1329491_raas.administrator,x_1329491_raas.moderator</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 20:02:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c3e836b2533292104d3491e0a0490e46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Directors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Raas" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Raas">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_update_name>sys_app_module_c3e836b2533292104d3491e0a0490e46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 20:02:44</sys_updated_on>
+        <timeline_page/>
+        <title>Directors</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</application>
+        <file_path/>
+        <instance_id>c2f13af1db014a5437d72a59139619f8</instance_id>
+        <instance_name>dev247250</instance_name>
+        <name>sys_app_module_c3e836b2533292104d3491e0a0490e46</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Raas -Review as a Service">49a5f236533292104d3491e0a0490e9d</application><assessment/><device_type/><filter/><hint>List of Directors</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Actors</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1329491_raas_director</name><order>500</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1329491_raas.administrator,x_1329491_raas.moderator</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-03 20:02:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c3e836b2533292104d3491e0a0490e46</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Directors</sys_name><sys_overrides/><sys_package display_value="Raas" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package><sys_policy/><sys_scope display_value="Raas">0226f5ea533a12104d3491e0a0490e64</sys_scope><sys_update_name>sys_app_module_c3e836b2533292104d3491e0a0490e46</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-03 20:02:44</sys_updated_on><timeline_page/><title>Directors</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2072676790</payload_hash>
+        <record_name>Directors</record_name>
+        <reverted_from/>
+        <source>1226f5ea533a12104d3491e0a0490e69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 20:02:44</sys_created_on>
+        <sys_id>43e8b23a533292104d3491e0a0490e96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1942dc358230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 20:02:44</sys_updated_on>
+        <type>Module</type>
+        <update_guid>47e8b23a87329210efbc405689c8a195</update_guid>
+        <update_guid_history>47e8b23a87329210efbc405689c8a195:-2072676790</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Directors">5629b63a533292104d3491e0a0490e9f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 20:03:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>da30717b141b4f448baa47c6aff7b9a4</sys_id>
+        <sys_metadata>c3e836b2533292104d3491e0a0490e46</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Directors</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_scope_delete display_value="">91b5adaec4b34e2c9e88bf5b7bcd6490</sys_scope_delete>
+        <sys_update_name>sys_app_module_c3e836b2533292104d3491e0a0490e46</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c3e836b2533292104d3491e0a0490e46">43e8b23a533292104d3491e0a0490e96</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 20:03:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
