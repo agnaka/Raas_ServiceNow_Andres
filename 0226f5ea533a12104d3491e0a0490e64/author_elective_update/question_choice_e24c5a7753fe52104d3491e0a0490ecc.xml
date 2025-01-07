@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>600</order>
+        <published_ref/>
+        <question display_value="What's your rating">bc84827b537e52104d3491e0a0490ef1</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 20:31:39</sys_created_on>
+        <sys_id>e24c5a7753fe52104d3491e0a0490ecc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>6</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_update_name>question_choice_e24c5a7753fe52104d3491e0a0490ecc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 20:32:59</sys_updated_on>
+        <text>6</text>
+        <value>6</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=e24c5a7753fe52104d3491e0a0490ecc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</application>
+        <file_path/>
+        <instance_id>c2f13af1db014a5437d72a59139619f8</instance_id>
+        <instance_name>dev247250</instance_name>
+        <name>question_choice_e24c5a7753fe52104d3491e0a0490ecc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>600</order><published_ref/><question display_value="What's your rating">bc84827b537e52104d3491e0a0490ef1</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-06 20:31:39</sys_created_on><sys_id>e24c5a7753fe52104d3491e0a0490ecc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>6</sys_name><sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package><sys_policy/><sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope><sys_update_name>question_choice_e24c5a7753fe52104d3491e0a0490ecc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-06 20:32:59</sys_updated_on><text>6</text><value>6</value></question_choice><fx_price action="delete_multiple" query="id=e24c5a7753fe52104d3491e0a0490ecc"/></record_update>]]></payload>
+        <payload_hash>-821619806</payload_hash>
+        <record_name>6</record_name>
+        <reverted_from/>
+        <source>bdc9f03353b252104d3491e0a0490e39</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 20:32:59</sys_created_on>
+        <sys_id>2f9c9ab753fe52104d3491e0a0490eaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1943d521e510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 20:32:59</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>a39c9ab70dfe5210bcbca34d58b076af</update_guid>
+        <update_guid_history>a39c9ab70dfe5210bcbca34d58b076af:-821619806,436c9ab7f5fe5210d197638606fbc3ea:1924466653,c85cd6b754fe5210f45ca1c094ccabcc:1556548148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="6">83402efb53fe52104d3491e0a0490e42</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 20:49:04</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>0af5ec05baae42d8bdaa3ea1167acde9</sys_id>
+        <sys_metadata>e24c5a7753fe52104d3491e0a0490ecc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_parent display_value="What's your rating">bc84827b537e52104d3491e0a0490ef1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_scope_delete display_value="">91b5adaec4b34e2c9e88bf5b7bcd6490</sys_scope_delete>
+        <sys_update_name>question_choice_e24c5a7753fe52104d3491e0a0490ecc</sys_update_name>
+        <sys_update_version display_value="question_choice_e24c5a7753fe52104d3491e0a0490ecc">2f9c9ab753fe52104d3491e0a0490eaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 20:49:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

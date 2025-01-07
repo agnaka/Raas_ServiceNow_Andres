@@ -7,12 +7,12 @@
                 <element inactive_on_update="false" label="Movie" sequence="1" value="m"/>
             </choice>
         </element>
-        <element label="Poster" max_length="40" name="poster" type="url"/>
+        <element label="Poster" max_length="1000" name="poster" type="url"/>
         <element label="Language" max_length="250" name="language" type="string"/>
         <element label="Awards" max_length="250" name="awards" type="string"/>
         <element label="Imdb Rating" max_length="40" name="imdb_rating" type="float"/>
         <element label="Genre" max_length="1024" name="genre" reference="x_1329491_raas_genre" type="glide_list"/>
-        <element label="Website" max_length="40" name="website" type="url"/>
+        <element label="Website" max_length="1000" name="website" type="url"/>
         <element label="Synopsis" max_length="4000" name="synopsis" type="string"/>
         <element label="Country" max_length="250" name="country" type="string"/>
         <element label="Category" max_length="40" name="category" type="string"/>
