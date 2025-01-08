@@ -4,13 +4,13 @@
             <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:13:59</sys_created_on>
-            <sys_id>e9d63d3a53fa52104d3491e0a0490e93</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>bc0860a0538752104d3491e0a0490ed3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:13:59</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>69d63d3a53fa52104d3491e0a0490e94</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>b80860a0538752104d3491e0a0490ed4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>type</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>61d63d3a53fa52104d3491e0a0490e95</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>300860a0538752104d3491e0a0490ed5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>genre</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>69d63d3a53fa52104d3491e0a0490e95</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>b40860a0538752104d3491e0a0490ed5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>61d63d3a53fa52104d3491e0a0490e96</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>3c0860a0538752104d3491e0a0490ed5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>release_date</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>69d63d3a53fa52104d3491e0a0490e96</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>b00860a0538752104d3491e0a0490ed6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>category</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>61d63d3a53fa52104d3491e0a0490e97</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>380860a0538752104d3491e0a0490ed6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>69d63d3a53fa52104d3491e0a0490e97</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>bc0860a0538752104d3491e0a0490ed6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>synopsis</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>61d63d3a53fa52104d3491e0a0490e98</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>340860a0538752104d3491e0a0490ed7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>writers</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>69d63d3a53fa52104d3491e0a0490e98</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>b80860a0538752104d3491e0a0490ed7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>production</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>edd63d3a53fa52104d3491e0a0490eb1</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>300860a0538752104d3491e0a0490ed8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>website</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>e5d63d3a53fa52104d3491e0a0490eb2</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>b40860a0538752104d3491e0a0490ed8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,15 +172,29 @@
             <element>poster</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-01-03 15:14:00</sys_created_on>
-            <sys_id>edd63d3a53fa52104d3491e0a0490eb2</sys_id>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>3c0860a0538752104d3491e0a0490ed8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-01-03 15:14:00</sys_updated_on>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1329491_raas_poster.xml</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-08 19:58:58</sys_created_on>
+            <sys_id>b00860a0538752104d3491e0a0490ed9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Poster">e6976860538752104d3491e0a0490eb5</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_1329491_raas_media" sys_domain="global" view="Default view">881aa57a53ba52104d3491e0a0490e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-08 19:58:58</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
