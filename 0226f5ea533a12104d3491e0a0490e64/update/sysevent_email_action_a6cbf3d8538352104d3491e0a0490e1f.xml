@@ -38,7 +38,11 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p><span data-teams="true">&lt;p&gt;Hello ${opened_by.first_name}&lt;/p&gt;<br>&lt;p&gt;Thank you for your review for the ${media.type} ${media.title}.&lt;/p&gt;<br>&lt;p&gt;It is &lt;strong&gt;approved.&lt;/strong&gt;&lt;/p&gt;<br>&lt;p&gt;&lt;img style="width: 300px;" src="${media.poster}"&gt;&lt;/p&gt;<br>&lt;p&gt;If you want to send more reviews, click &lt;a href="/sp?id=sc_cat_item&amp;amp;sys_id=4be6f57bc3fa1210380d5f73e401312d&amp;amp;sysparm_category=ccb23df3c3fa1210380d5f73e4013137"&gt;here&lt;/a&gt;&lt;/p&gt;</span></p>]]></message_html>
+        <message_html><![CDATA[<p>Hello ${opened_by.first_name}</p>
+<p>Thank you for your review for the ${media.type} ${media.title}.</p>
+<p>It is <strong>approved.</strong></p>
+<p><img style="width: 300px;" src="${media.poster}"></p>
+<p>If you want to send more reviews, click <a href="/sp?id=sc_cat_item&amp;sys_id=1bf6f57b533e52104d3491e0a0490ed8&amp;sysparm_category=ccb23df3c3fa1210380d5f73e4013137">here</a></p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Review approved</name>
@@ -52,7 +56,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>${number} + Review Approved</subject>
+        <subject>${number}  - ${media.title} - Review Approved</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -60,7 +64,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a6cbf3d8538352104d3491e0a0490e1f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Review approved</sys_name>
         <sys_overrides/>
         <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
@@ -68,7 +72,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name>sysevent_email_action_a6cbf3d8538352104d3491e0a0490e1f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-08 19:51:22</sys_updated_on>
+        <sys_updated_on>2025-01-08 23:39:34</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
