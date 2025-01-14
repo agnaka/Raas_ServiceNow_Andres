@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1329491_raas_suggestion">state=2^EQ<item display_value="Awaiting Moderator's Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Awaiting Moderator's Approval Reviews</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Actors</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1329491_raas_suggestion</name>
+        <order>1150</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1329491_raas.administrator,x_1329491_raas.moderator</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 00:06:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>64b0d702538f12104d3491e0a0490e8d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Awaiting Moderator's Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_update_name>sys_app_module_64b0d702538f12104d3491e0a0490e8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 02:04:27</sys_updated_on>
+        <timeline_page/>
+        <title>Awaiting Moderator's Approval</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</application>
+        <file_path/>
+        <instance_id>c2f13af1db014a5437d72a59139619f8</instance_id>
+        <instance_name>dev247250</instance_name>
+        <name>sys_app_module_64b0d702538f12104d3491e0a0490e8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter table="x_1329491_raas_suggestion">state=2^EQ<item display_value="Awaiting Moderator's Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>Awaiting Moderator's Approval Reviews</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Actors</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1329491_raas_suggestion</name><order>1150</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1329491_raas.administrator,x_1329491_raas.moderator</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-14 00:06:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>64b0d702538f12104d3491e0a0490e8d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Awaiting Moderator's Approval</sys_name><sys_overrides/><sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package><sys_policy/><sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope><sys_update_name>sys_app_module_64b0d702538f12104d3491e0a0490e8d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-14 02:04:27</sys_updated_on><timeline_page/><title>Awaiting Moderator's Approval</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1647557224</payload_hash>
+        <record_name>Awaiting Moderator's Approval</record_name>
+        <reverted_from/>
+        <source>bdc9f03353b252104d3491e0a0490e39</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 02:08:31</sys_created_on>
+        <sys_id>3e8c2fc2530352104d3491e0a0490e31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1946291d4880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 02:08:31</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d39be782d6035210dc0deb31faabaf12</update_guid>
+        <update_guid_history>d39be782d6035210dc0deb31faabaf12:-1702287670,d39be782d6035210dc0deb31faabaf12:-1702287670,37f0db423d8f121094a78caf1f69995c:-1119625413,37f0db423d8f121094a78caf1f69995c:-1119625413,70b0d702f48f1210358dc76a66db8d90:-1695233317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Awaiting Moderator's Approval">b82de706530352104d3491e0a0490e8d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 02:11:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>bf6721b413a242c08cf66477505805b1</sys_id>
+        <sys_metadata>64b0d702538f12104d3491e0a0490e8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting Moderator's Approval</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_scope_delete display_value="">91b5adaec4b34e2c9e88bf5b7bcd6490</sys_scope_delete>
+        <sys_update_name>sys_app_module_64b0d702538f12104d3491e0a0490e8d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_64b0d702538f12104d3491e0a0490e8d">3e8c2fc2530352104d3491e0a0490e31</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 02:11:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
