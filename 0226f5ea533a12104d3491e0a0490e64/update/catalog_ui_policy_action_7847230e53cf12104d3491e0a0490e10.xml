@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Media Suggestion">7d8a960e534b12104d3491e0a0490e27</catalog_item>
+        <catalog_variable>IO:91fc9ece534b12104d3491e0a0490ee6</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 01:45:41</sys_created_on>
+        <sys_id>7847230e53cf12104d3491e0a0490e10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>title</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_7847230e53cf12104d3491e0a0490e10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 01:45:41</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mandatory fields">cea627ca53cf12104d3491e0a0490e21</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>title</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=7847230e53cf12104d3491e0a0490e10"/>
+</record_update>

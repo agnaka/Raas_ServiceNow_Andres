@@ -8,21 +8,21 @@
         <mandatory>ignore</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-10 16:53:29</sys_created_on>
-        <sys_id>38b05ac1530716104d3491e0a0490ef1</sys_id>
+        <sys_created_on>2025-01-12 16:40:18</sys_created_on>
+        <sys_id>49d0e0bd5307d6104d3491e0a0490ee1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>integration_error_message</sys_name>
         <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
-        <sys_update_name>sys_ui_policy_action_38b05ac1530716104d3491e0a0490ef1</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_49d0e0bd5307d6104d3491e0a0490ee1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 16:53:29</sys_updated_on>
+        <sys_updated_on>2025-01-12 16:40:18</sys_updated_on>
         <table>x_1329491_raas_media</table>
         <ui_policy display_value="Integraton State e Message Read Only">6f50d2c1530716104d3491e0a0490e49</ui_policy>
         <value/>
         <value_action>ignore</value_action>
         <visible>ignore</visible>
     </sys_ui_policy_action>
-    <sys_translated_text action="delete_multiple" query="documentkey=38b05ac1530716104d3491e0a0490ef1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=49d0e0bd5307d6104d3491e0a0490ee1"/>
 </record_update>

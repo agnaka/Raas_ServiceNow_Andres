@@ -19,7 +19,7 @@
         <label_cache>[{"name":"{{action.string}}","label":"action➛String","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.separator}}","label":"action➛Separator","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[113ab620-dc15-4afc-ba76-c1f63c0a54cc].array}}","label":"step➛Script step➛Array","type":"step","ref":"","reference_display":"","base_type":"array.string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Array.String","co_type_name":"FD37dd7e4d11c71610305a2ce046f8389d","child_label":"Element","child_type_label":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"array.string","child_type":"string","child_name":"element","child_uiUniqueId":"0846e8cd-ca92-41f2-947c-dba871020b08","uiUniqueId":"4a8f2483-d164-4682-ba31-1ab602ef6761"}}]</label_cache>
         <master_snapshot>2a4eb68d53c716104d3491e0a0490ec9</master_snapshot>
         <master_snapshot_digest/>
-        <name>Convert String into Array</name>
+        <name>Convert String into String Array</name>
         <natlang/>
         <outputs/>
         <outputs/>
@@ -31,15 +31,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>12bcfe4953c716104d3491e0a0490e7e</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Convert String into Array</sys_name>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Convert String into String Array</sys_name>
         <sys_overrides/>
         <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_12bcfe4953c716104d3491e0a0490e7e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:32</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:34</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -126,7 +126,7 @@
     </sys_element_mapping>
     <sys_hub_step_instance action="delete_multiple" query="action=12bcfe4953c716104d3491e0a0490e7e^sys_idNOT IN2bdd7e4d53c716104d3491e0a0490e91"/>
     <sys_hub_step_instance action="INSERT_OR_UPDATE">
-        <action display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</action>
+        <action display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</action>
         <cid>113ab620-dc15-4afc-ba76-c1f63c0a54cc</cid>
         <error_handling_type>1</error_handling_type>
         <extended_inputs/>
@@ -412,7 +412,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f7dd7e4d53c716104d3491e0a0490e9d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -420,7 +420,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:30</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:32</sys_updated_on>
         <type>complex_object_collection</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -572,7 +572,7 @@
         <label>String</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</model>
+        <model display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</model>
         <model_id>12bcfe4953c716104d3491e0a0490e7e</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_input_12bcfe4953c716104d3491e0a0490e7e</name>
@@ -656,7 +656,7 @@
         <label>Separator</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</model>
+        <model display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</model>
         <model_id>12bcfe4953c716104d3491e0a0490e7e</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_input_12bcfe4953c716104d3491e0a0490e7e</name>
@@ -743,7 +743,7 @@
         <label>Action Status</label>
         <mandatory>false</mandatory>
         <max_length>65000</max_length>
-        <model display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</model>
+        <model display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</model>
         <model_id>12bcfe4953c716104d3491e0a0490e7e</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_output_12bcfe4953c716104d3491e0a0490e7e</name>
@@ -800,7 +800,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ffdd7e4d53c716104d3491e0a0490ebb</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -808,7 +808,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:30</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:32</sys_updated_on>
         <type>complex_object_collection</type>
     </sys_complex_object>
     <sys_hub_action_output action="INSERT_OR_UPDATE">
@@ -853,7 +853,7 @@
         <label>Array</label>
         <mandatory>true</mandatory>
         <max_length>65000</max_length>
-        <model display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</model>
+        <model display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</model>
         <model_id>12bcfe4953c716104d3491e0a0490e7e</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_output_12bcfe4953c716104d3491e0a0490e7e</name>
@@ -940,7 +940,7 @@
         <label>Don't Treat as Error</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</model>
+        <model display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</model>
         <model_id>12bcfe4953c716104d3491e0a0490e7e</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_output_12bcfe4953c716104d3491e0a0490e7e</name>
@@ -963,14 +963,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-10 20:10:41</sys_created_on>
         <sys_id>fbdd7e4d53c716104d3491e0a0490ec6</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:30</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -988,7 +988,7 @@
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=12bcfe4953c716104d3491e0a0490e7e"/>
     <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=12bcfe4953c716104d3491e0a0490e7e^sys_idNOT IN3fdd7e4d53c716104d3491e0a0490ee0"/>
     <sys_hub_action_status_metadata action="INSERT_OR_UPDATE">
-        <action_type_id display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</action_type_id>
+        <action_type_id display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</action_type_id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-10 20:10:41</sys_created_on>
         <sys_id>3fdd7e4d53c716104d3491e0a0490ee0</sys_id>
@@ -1118,19 +1118,19 @@
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_12bcfe4953c716104d3491e0a0490e7e"/>
     <sys_hub_action_plan action="delete_multiple" query="action_id=12bcfe4953c716104d3491e0a0490e7e^sys_idNOT IN434ef68d53c716104d3491e0a0490e6e"/>
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
-        <action_id display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</action_id>
+        <action_id display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</action_id>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"434ef68d53c716104d3491e0a0490e6e","name":"plan","plan_signature":null}}</plan>
-        <snapshot>f64ef68d53c716104d3491e0a0490e3c</snapshot>
+        <snapshot>f8edecad538396104d3491e0a0490ecd</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-10 20:12:33</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>434ef68d53c716104d3491e0a0490e6e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:33</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:35</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -1149,18 +1149,18 @@
         <internal_name>convert_string_into_array</internal_name>
         <label_cache>[{"name":"{{action.string}}","label":"action➛String","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.separator}}","label":"action➛Separator","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{step[113ab620-dc15-4afc-ba76-c1f63c0a54cc].array}}","label":"step➛Script step➛Array","type":"step","ref":"","reference_display":"","base_type":"array.string","parent_table_name":"","column_name":"","choices":null,"attributes":{"uiTypeLabel":"Array.String","co_type_name":"FD37dd7e4d11c71610305a2ce046f8389d","child_label":"Element","child_type_label":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"array.string","child_type":"string","child_name":"element","child_uiUniqueId":"0846e8cd-ca92-41f2-947c-dba871020b08","uiUniqueId":"4a8f2483-d164-4682-ba31-1ab602ef6761"}}]</label_cache>
         <master>true</master>
-        <name>Convert String into Array</name>
+        <name>Convert String into String Array</name>
         <natlang/>
         <outputs/>
         <outputs/>
-        <parent_action display_value="Convert String into Array">12bcfe4953c716104d3491e0a0490e7e</parent_action>
+        <parent_action display_value="Convert String into String Array">12bcfe4953c716104d3491e0a0490e7e</parent_action>
         <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-10 20:12:31</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2a4eb68d53c716104d3491e0a0490ec9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1168,7 +1168,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:31</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:25:11</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_snapshot>
@@ -1241,7 +1241,7 @@
     </sys_element_mapping>
     <sys_hub_step_instance action="delete_multiple" query="action=2a4eb68d53c716104d3491e0a0490ec9^sys_idNOT INb64eb68d53c716104d3491e0a0490ef2"/>
     <sys_hub_step_instance action="INSERT_OR_UPDATE">
-        <action display_value="Convert String into Array">2a4eb68d53c716104d3491e0a0490ec9</action>
+        <action display_value="Convert String into String Array">2a4eb68d53c716104d3491e0a0490ec9</action>
         <cid>113ab620-dc15-4afc-ba76-c1f63c0a54cc</cid>
         <error_handling_type>1</error_handling_type>
         <extended_inputs/>
@@ -1527,7 +1527,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>724eb68d53c716104d3491e0a0490efe</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1535,7 +1535,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:31</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:34</sys_updated_on>
         <type>complex_object_collection</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -1687,7 +1687,7 @@
         <label>String</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Convert String into Array">2a4eb68d53c716104d3491e0a0490ec9</model>
+        <model display_value="Convert String into String Array">2a4eb68d53c716104d3491e0a0490ec9</model>
         <model_id>2a4eb68d53c716104d3491e0a0490ec9</model_id>
         <model_table>sys_hub_action_type_snapshot</model_table>
         <name>var__m_sys_hub_action_input_2a4eb68d53c716104d3491e0a0490ec9</name>
@@ -1771,7 +1771,7 @@
         <label>Separator</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Convert String into Array">2a4eb68d53c716104d3491e0a0490ec9</model>
+        <model display_value="Convert String into String Array">2a4eb68d53c716104d3491e0a0490ec9</model>
         <model_id>2a4eb68d53c716104d3491e0a0490ec9</model_id>
         <model_table>sys_hub_action_type_snapshot</model_table>
         <name>var__m_sys_hub_action_input_2a4eb68d53c716104d3491e0a0490ec9</name>
@@ -1828,7 +1828,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>724ef68d53c716104d3491e0a0490e19</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1836,7 +1836,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:32</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:34</sys_updated_on>
         <type>complex_object_collection</type>
     </sys_complex_object>
     <sys_hub_action_output action="INSERT_OR_UPDATE">
@@ -1881,7 +1881,7 @@
         <label>Array</label>
         <mandatory>true</mandatory>
         <max_length>65000</max_length>
-        <model display_value="Convert String into Array">2a4eb68d53c716104d3491e0a0490ec9</model>
+        <model display_value="Convert String into String Array">2a4eb68d53c716104d3491e0a0490ec9</model>
         <model_id>2a4eb68d53c716104d3491e0a0490ec9</model_id>
         <model_table>sys_hub_action_type_snapshot</model_table>
         <name>var__m_sys_hub_action_output_2a4eb68d53c716104d3491e0a0490ec9</name>
@@ -1968,7 +1968,7 @@
         <label>Don't Treat as Error</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Convert String into Array">2a4eb68d53c716104d3491e0a0490ec9</model>
+        <model display_value="Convert String into String Array">2a4eb68d53c716104d3491e0a0490ec9</model>
         <model_id>2a4eb68d53c716104d3491e0a0490ec9</model_id>
         <model_table>sys_hub_action_type_snapshot</model_table>
         <name>var__m_sys_hub_action_output_2a4eb68d53c716104d3491e0a0490ec9</name>
@@ -1991,14 +1991,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-10 20:12:32</sys_created_on>
         <sys_id>7a4ef68d53c716104d3491e0a0490e2f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-10 20:12:32</sys_updated_on>
+        <sys_updated_on>2025-01-11 22:58:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2055,7 +2055,7 @@
         <label>Action Status</label>
         <mandatory>false</mandatory>
         <max_length>65000</max_length>
-        <model display_value="Convert String into Array">2a4eb68d53c716104d3491e0a0490ec9</model>
+        <model display_value="Convert String into String Array">2a4eb68d53c716104d3491e0a0490ec9</model>
         <model_id>2a4eb68d53c716104d3491e0a0490ec9</model_id>
         <model_table>sys_hub_action_type_snapshot</model_table>
         <name>var__m_sys_hub_action_output_2a4eb68d53c716104d3491e0a0490ec9</name>
@@ -2103,7 +2103,7 @@
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=2a4eb68d53c716104d3491e0a0490ec9"/>
     <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=2a4eb68d53c716104d3491e0a0490ec9^sys_idNOT IN364ef68d53c716104d3491e0a0490e3c"/>
     <sys_hub_action_status_metadata action="INSERT_OR_UPDATE">
-        <action_type_id display_value="Convert String into Array">2a4eb68d53c716104d3491e0a0490ec9</action_type_id>
+        <action_type_id display_value="Convert String into String Array">2a4eb68d53c716104d3491e0a0490ec9</action_type_id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-10 20:12:32</sys_created_on>
         <sys_id>364ef68d53c716104d3491e0a0490e3c</sys_id>

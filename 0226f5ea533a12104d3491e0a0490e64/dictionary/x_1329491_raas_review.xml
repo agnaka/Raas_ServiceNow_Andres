@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6802563a537e52104d3491e0a0490e9d" extends="task" label="Review" max_length="40" name="x_1329491_raas_review" type="collection">
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Episode" sequence="2" value="episode"/>
+                <element inactive_on_update="false" label="Movie" sequence="0" value="movie"/>
+                <element inactive_on_update="false" label="Series" sequence="1" value="series"/>
+            </choice>
+        </element>
         <element label="Media" max_length="32" name="media" reference="x_1329491_raas_media" type="reference"/>
         <element label="Reproval Reason" max_length="4000" name="reproval_reason" type="string"/>
         <element choice="1" label="Rating" max_length="40" name="rating" type="choice">
