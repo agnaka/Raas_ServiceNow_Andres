@@ -12,11 +12,13 @@
         <order/>
         <script><![CDATA[function onLoad() {
     var state = g_form.getValue('state');
-    if (state == 'completed') {
+    if (state == '3') {
         g_form.setReadOnly('related_lists_Actors', true);
         g_form.setReadOnly('related_lists_Directors', true);
     }
 }
+
+
 ]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -24,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>62387bde530792104d3491e0a0490ecc</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>Atores / Diretores Read Only</sys_name>
         <sys_overrides/>
         <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
@@ -32,7 +34,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name>sys_script_client_62387bde530792104d3491e0a0490ecc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-15 02:42:00</sys_updated_on>
+        <sys_updated_on>2025-01-15 12:15:41</sys_updated_on>
         <table>x_1329491_raas_media</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
