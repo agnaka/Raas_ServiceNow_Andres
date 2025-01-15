@@ -20,14 +20,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_1329491_raas.moderator,x_1329491_raas.administrator</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-14 01:53:01</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>55178346534f12104d3491e0a0490eeb</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Awaiting Moderator's Approval</sys_name>
         <sys_overrides/>
         <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
         <sys_update_name>sys_app_module_55178346534f12104d3491e0a0490eeb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-14 02:13:27</sys_updated_on>
+        <sys_updated_on>2025-01-14 19:25:32</sys_updated_on>
         <timeline_page/>
         <title>Awaiting Moderator's Approval</title>
         <uncancelable>false</uncancelable>
