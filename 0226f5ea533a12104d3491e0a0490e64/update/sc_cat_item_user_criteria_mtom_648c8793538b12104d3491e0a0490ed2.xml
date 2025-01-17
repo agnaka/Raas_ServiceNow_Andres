@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Media Suggestion">7d8a960e534b12104d3491e0a0490e27</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 21:00:58</sys_created_on>
+        <sys_id>648c8793538b12104d3491e0a0490ed2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Media Suggestion.RaaS-Users</sys_name>
+        <sys_package display_value="Raas - Andres" source="x_1329491_raas">0226f5ea533a12104d3491e0a0490e64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Raas - Andres">0226f5ea533a12104d3491e0a0490e64</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_648c8793538b12104d3491e0a0490ed2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 21:00:58</sys_updated_on>
+        <user_criteria display_value="RaaS-Users">22e6fe045307d2104d3491e0a0490efa</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
